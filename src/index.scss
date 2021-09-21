@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+.source {
+  position: absolute;
+  display: none;
+}
+
+.html {
+  background: #181818;
+}
+
+.gradient {
+  position: absolute;
+  background: linear-gradient(0deg, magenta 0%, yellow 100%);
+}
